@@ -1,0 +1,9 @@
+name: film-db-api
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - fastapi=0.85
+  - sqlite=3.39
+  - uvicorn=0.19

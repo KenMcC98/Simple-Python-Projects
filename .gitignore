@@ -1,1 +1,4 @@
-.vscode/settings.json
+.vscode/
+__pycache__/
+*.py[cod]
+*.sqlite
